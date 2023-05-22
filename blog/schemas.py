@@ -1,7 +1,7 @@
 from pydantic import BaseModel
 from datetime import date
 
-class Blog(BaseModel):
+class Employee(BaseModel):
     employee_id:int
     name:str
     joining_date : date

@@ -2,3 +2,4 @@ __pycache__
 blog-venv
 blog.db
 fastapi
+db_data
